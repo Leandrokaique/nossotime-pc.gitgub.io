@@ -28,7 +28,7 @@
 .u-section-1 .u-image-1 {
   width: 240px;
   height: 240px;
-  background-image: url("../images/Wesley.png");
+  background-image: url("Wesley.png");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 50px;
   --animation-custom_in-translate_y: 0px;
@@ -81,7 +81,7 @@
   width: 240px;
   height: 240px;
   object-position: 50% 94.17%;
-  background-image: url("../images/Claudio.png");
+  background-image: url("Claudio.png");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 50px;
   --animation-custom_in-translate_y: 0px;
@@ -134,7 +134,7 @@
 .u-section-1 .u-image-3 {
   width: 240px;
   height: 240px;
-  background-image: url("../images/Raimundo.png");
+  background-image: url("Raimundo.png");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 50px;
   --animation-custom_in-translate_y: 0px;
@@ -186,7 +186,7 @@
 .u-section-1 .u-image-4 {
   width: 240px;
   height: 240px;
-  background-image: url("../images/sergio.png");
+  background-image: url("sergio.png");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 50px;
   --animation-custom_in-translate_y: 0px;
